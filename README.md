@@ -2,4 +2,4 @@
 - [netlify link](https://ourmenudomi.netlify.app/)
 
 
-![react](src/assets/images/reactTree.jpg "reactTree")
+![react](src/assets/reactTree.jpg "reactTree")
